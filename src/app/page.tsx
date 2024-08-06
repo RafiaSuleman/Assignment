@@ -1,7 +1,7 @@
 import Image from "next/image";
-import Navbar from "./Component/navbar/navbar";
-import Center from "./Component/center/center";
-import Footer from "./Component/footer/footer";
+import Navbar from "@/components/navbar/navbar";
+import Center from "@/components/center/center";
+import Footer from "@/components/footer/footer";
 export default function Home() {
   return (
     <main className="min-h-screen bg-[#F3F4F6] relative overflow-x-hidden">

@@ -7,7 +7,6 @@ const center = () => {
         <div className="mb-[20px]">
           <h1 className="text-xl font-bold">Categories</h1>
         </div>
-        <div>
           <ul>
             <li>
               <a
@@ -42,7 +41,7 @@ const center = () => {
               </a>
             </li>
           </ul>
-        </div>
+        
       </div>
 
       <div className="col-span-2">
