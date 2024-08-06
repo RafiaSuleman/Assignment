@@ -3,9 +3,9 @@ import React from "react";
 const center = () => {
   return (
     <div className="grid md:grid-cols-3 sm:grid-cols-1 grid-flow-row">
-      <div className="bg-white shadow-lg rounded-lg mt-[30px] px-10 py-10">
+      <div className="bg-white shadow-lg rounded-lg mt-[30px] px-10 py-10 h-fit">
         <div className="mb-[20px]">
-          <h1 className="text-xl font-bold">Categories</h1>
+          <h1 className="text-xl font-bold ">Categories</h1>
         </div>
           <ul>
             <li>
